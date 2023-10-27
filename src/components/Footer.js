@@ -9,7 +9,6 @@ function Footer() {
       <img
         src="https://portfolio-elisa-2023.s3.eu-west-1.amazonaws.com/gif101.gif"
         alt="Your GIF"
-        className="w-full h-full object-cover"
       />
       <div className="absolute inset-0 flex flex-col justify-center items-center">
         <p className="text-white text-3xl ">davidsson.elisa@gmail.com</p>

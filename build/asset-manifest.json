@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/elisabjorg-13.github.io/static/css/main.a800215e.css",
-    "main.js": "/elisabjorg-13.github.io/static/js/main.79cf75d1.js",
+    "main.js": "/elisabjorg-13.github.io/static/js/main.6b513bc3.js",
     "static/js/787.28cb0dcd.chunk.js": "/elisabjorg-13.github.io/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/elisabjorg-13.github.io/index.html",
     "main.a800215e.css.map": "/elisabjorg-13.github.io/static/css/main.a800215e.css.map",
-    "main.79cf75d1.js.map": "/elisabjorg-13.github.io/static/js/main.79cf75d1.js.map",
+    "main.6b513bc3.js.map": "/elisabjorg-13.github.io/static/js/main.6b513bc3.js.map",
     "787.28cb0dcd.chunk.js.map": "/elisabjorg-13.github.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a800215e.css",
-    "static/js/main.79cf75d1.js"
+    "static/js/main.6b513bc3.js"
   ]
 }

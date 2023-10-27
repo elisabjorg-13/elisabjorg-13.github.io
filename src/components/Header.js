@@ -1,18 +1,29 @@
-import React from 'react';
-import { Navbar, NavbarBrand, NavbarContent, NavbarItem, Link, Button } from "@nextui-org/react";
+import React from "react";
+import {
+  Navbar,
+  NavbarBrand,
+  NavbarContent,
+  NavbarItem,
+  Link,
+  Button,
+} from "@nextui-org/react";
 
 function Header({ handleNavigationClick }) {
   const headerStyle = {
-    position: 'sticky',
-    top: '0',
-    zIndex: '10',
+    position: "sticky",
+    top: "0",
+    zIndex: "10",
   };
 
   return (
     <div style={headerStyle}>
-      <Navbar className='pt-10 pb-10 border-b '>
+      <Navbar className="pt-10 pb-10 border-b ">
         <NavbarBrand>
-          <p className="font-bold text-inherit ">ACME</p>
+          <img
+            src="https://portfolio-elisa-2023.s3.eu-west-1.amazonaws.com/elisalogo.3danimation+(1).gif"
+            alt="Your GIF"
+            className="w-1/2 display-block"
+          />
         </NavbarBrand>
         <NavbarContent className="hidden sm:flex gap-4" justify="center">
           <NavbarItem>
